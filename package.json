@@ -1,0 +1,14 @@
+{
+  "name": "mywardrobe-database",
+  "version": "1.0.0",
+  "description": "mywardrobe-database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "mohit",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
